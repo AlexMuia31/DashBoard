@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "apexcharts": "^3.37.0",
+    "react-apexcharts": "^1.4.0"
+  }
+}
